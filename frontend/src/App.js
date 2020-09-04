@@ -31,7 +31,7 @@ function App() {
             <button onClick={openMenu}>
               &#9776;
         </button>
-            <Link to="/" >ecommerce</Link>
+            <Link to="/" >TradeHood</Link>
           </div>
           <div className="header-links">
             <a href="cart.html">Cart</a>
