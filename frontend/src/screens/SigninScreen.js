@@ -54,7 +54,7 @@ function SigninScreen(props) {
           New to ecommerce?
         </li>
         <li>
-          <Link to={redirect === "/" ? "register" : "register?redirect=" + redirect} className="button secondary text-center" >Create your TradeHood account</Link>
+          <Link to={redirect === "/" ? "register" : "register?redirect=" + redirect} className="button secondary text-center" >Create your Ecommerce account</Link>
         </li>
       </ul>
     </form>

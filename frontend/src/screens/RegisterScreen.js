@@ -67,7 +67,7 @@ function RegisterScreen(props) {
         </li>
         <li>
           Already have an account?
-          <Link to={redirect === "/" ? "signin" : "signin?redirect=" + redirect} className="button secondary text-center" >Create your TradeHood account</Link>
+          <Link to={redirect === "/" ? "signin" : "signin?redirect=" + redirect} className="button secondary text-center" >Create your Ecommerce account</Link>
 
         </li>
 
