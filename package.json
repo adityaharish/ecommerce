@@ -6,7 +6,7 @@
   "scripts": {
     "start": "nodemon --watch backend --exec babel-node backend/server.js"
   },
-  "author": "",
+  "author": "adityaharish",
   "license": "ISC",
   "devDependencies": {
     "@babel/cli": "^7.10.5",
